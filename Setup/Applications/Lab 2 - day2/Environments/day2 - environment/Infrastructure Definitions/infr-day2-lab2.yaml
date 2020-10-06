@@ -5,5 +5,5 @@ deploymentType: KUBERNETES
 infrastructure:
 - type: DIRECT_KUBERNETES
   cloudProviderName: Kubernetes Cluster Day2
-  namespace: anubhav
+  namespace: anubhav2
   releaseName: release-${infra.kubernetes.infraId}
