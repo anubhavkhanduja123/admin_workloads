@@ -1,0 +1,9 @@
+harnessApiVersion: '1.0'
+type: APPLICATION_MANIFEST
+gitFileConfig:
+  branch: master
+  connectorName: k8 deployment day2 lab2
+  filePath: cvlab
+  useBranch: true
+  useInlineServiceDefinition: false
+storeType: Remote
